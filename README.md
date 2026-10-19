@@ -2,11 +2,9 @@
 
 <!-- PROJECT HEADER -->
 <div align="center">
-  <!-- Drop the project logo in docs/images/logo.png and uncomment:
-  <a href="https://github.com/openmove/{{repo}}">
-    <img src="docs/images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/openmove">
+    <img src="docs/images/openmove.png" alt="OpenMove" width="280">
   </a>
-  -->
 
   <h3 align="center">{{Service name}}</h3>
 
